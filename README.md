@@ -1,1 +1,1 @@
-# wx-mall-
+# wx-mall
